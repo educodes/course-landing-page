@@ -4,7 +4,8 @@ body{
 }
 
 .hero{
-  background: #23475b;
+  background-color: #0093E9;
+  background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
   color: #FFFFFF;
   padding: 35px 15px;
   display: grid;
